@@ -1,0 +1,17 @@
+
+.TempIcon{
+    height: 4rem;
+}
+.temp{
+    color: #398AB9;
+    font-size: 2.5rem;
+    position: absolute;
+    top: 0.5rem;
+}
+.degree{
+    color: white;
+    font-size: 4rem;
+    font-weight: unset;
+    margin-left: 8rem;
+    margin-top: 1rem;
+}

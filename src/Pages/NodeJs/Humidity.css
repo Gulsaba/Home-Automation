@@ -1,0 +1,24 @@
+.humidityComponent{
+    border: 1px solid black;
+
+}
+.cloudIcon{
+    height: 5rem;
+    position: relative;
+    bottom: 1rem;
+}
+.humidity{
+    color: #398AB9;
+    font-size: 2.5rem;
+    margin-left:0.3rem;
+   position: absolute;
+   top: 0.5rem;
+
+}
+.h2{
+    color: white;
+    font-size: 4rem;
+    font-weight: unset;
+    margin-left: 8rem;
+ 
+}

@@ -1,0 +1,11 @@
+.container{
+margin: 6rem auto;
+}
+.col-md-4{
+    padding: 1rem;
+    text-align: center;
+}
+.d{
+   position: relative;
+    left: 80px;
+}

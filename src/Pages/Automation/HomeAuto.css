@@ -1,0 +1,64 @@
+
+.con{
+    margin-top: 0;
+    border: 1px solid #084594;
+    width: 46rem;
+    padding: 3rem;
+    text-align: center;
+    background-color: aliceblue;
+    position: relative;
+    bottom: 4rem;
+
+
+}
+.col-6{
+ background-color:#488FB1;
+    width: 10rem;
+    height: 4rem;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 1rem;
+  border-radius: 7px;
+}
+
+h4{
+    margin-bottom: 2rem;
+    color: #084594;
+}
+h1{
+    text-align: center;
+
+}
+hr{
+    width: 47rem;
+    margin-bottom: 2rem;
+}
+
+.bump {
+  animation: bump 300ms ease-out;
+  background-color: #EF6D6D;
+}
+
+@keyframes bump {
+  0% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(0.9);
+  }
+  30% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.15);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.On{
+  background-color: aqua;
+}

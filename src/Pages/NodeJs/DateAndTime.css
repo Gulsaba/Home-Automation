@@ -1,0 +1,25 @@
+.timeIcon{
+    height: 4rem;
+    position: relative;
+    bottom: 1rem;
+    margin-right: 1rem;
+}
+
+h1{
+    color: #398AB9;
+    font-weight: unset;
+}
+.clocks{
+   color: #398AB9;
+   font-size: larger;
+
+}
+.span{
+ padding-left: 0.5rem;
+}
+.hr{
+    color: white;
+    font-size: 4rem;
+    font-weight: unset;
+    margin-left: 0.5rem;
+}

@@ -1,0 +1,56 @@
+.linksheader {
+  width: 100%;
+  height: 4rem;
+  padding: 0 2rem ;
+  margin-top: 5rem;
+ 
+}
+
+.linksheader nav {
+  height: 100%;
+}
+
+.linksheader ul {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+
+}
+.signInsignUp{
+  display: flex;
+}
+
+.linksheader li {
+
+  
+  width: 5rem;
+}
+
+.NavLinkTag{
+  color: #044599;
+  text-decoration: none;
+font-size: large;
+font-weight: bold;
+}
+
+.NavLinkTag:hover,
+.NavLinkTag:active,
+.NavLinkTag.active {
+
+color:#EF6D6D;
+}
+
+.homeIcon{
+  height: 2rem;
+  margin-top: 1rem;
+
+}
+.a{
+  position: relative;
+  left: 2.5rem;
+  bottom: 1.3rem;
+}
